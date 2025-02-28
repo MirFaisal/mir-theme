@@ -28,7 +28,7 @@
       },
       {
         "label": "Mir Theme Light",
-        "uiTheme": "vs-light",
+        "uiTheme": "vs",
         "path": "./themes/Mir-Theme-Light.json"
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "label": "Mir Theme Light High Contrast",
-        "uiTheme": "hc-white",
+        "uiTheme": "hc-light",
         "path": "./themes/Mir-Theme-Light-High-Contrast.json"
       },
       {
