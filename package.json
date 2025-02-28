@@ -3,6 +3,7 @@
   "displayName": "Mir Theme",
   "description": "Mir Theme – A sleek, modern, and visually balanced VS Code theme for enhanced focus and readability. 🚀",
   "version": "0.0.1",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.97.0"
   },
