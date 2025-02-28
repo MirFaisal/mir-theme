@@ -3,7 +3,7 @@
   "displayName": "Mir Theme",
   "description": "Mir Theme – A sleek, modern, and visually balanced VS Code theme for enhanced focus and readability. 🚀",
   "version": "0.0.1",
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "publisher": "mir-theme",
   "homepage": "https:/mirfaisal.me/",
   "repository": {
@@ -25,6 +25,71 @@
         "label": "Mir Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Mir-Theme-Dark.json"
+      },
+      {
+        "label": "Mir Theme Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/Mir-Theme-Light.json"
+      },
+      {
+        "label": "Mir Theme High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mir-Theme-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Light High Contrast",
+        "uiTheme": "hc-white",
+        "path": "./themes/Mir-Theme-Light-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Dark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mir-Theme-Dark-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mir-Theme-Darker.json"
+      },
+      {
+        "label": "Mir Theme Darker High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mir-Theme-Darker-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mir-Theme-Palenight.json"
+      },
+      {
+        "label": "Mir Theme Palenight High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mir-Theme-Palenight-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mir-Theme-Ocean.json"
+      },
+      {
+        "label": "Mir Theme Ocean High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Mir-Theme-Ocean-High-Contrast.json"
+      },
+      {
+        "label": "Mir Theme Deepforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mir-Theme-Deepforest.json"
+      },
+      {
+        "label": "Mir Theme Lighter",
+        "uiTheme": "vs",
+        "path": "./themes/Mir-Theme-Lighter.json"
+      },
+      {
+        "label": "Mir Theme Lighter High Contrast",
+        "uiTheme": "hc-white",
+        "path": "./themes/Mir-Theme-Lighter-High-Contrast.json"
       }
     ]
   }
