@@ -1,0 +1,21 @@
+{
+  "name": "mir-theme",
+  "displayName": "Mir Theme",
+  "description": "Mir Theme – A sleek, modern, and visually balanced VS Code theme for enhanced focus and readability. 🚀",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mir Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mir Theme-color-theme.json"
+      }
+    ]
+  }
+}
